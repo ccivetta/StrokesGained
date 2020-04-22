@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="StrokesGained">
+    <output-path>$PROJECT_DIR$/out/artifacts/StrokesGained</output-path>
+    <root id="root">
+      <element id="archive" name="StrokesGained.jar">
+        <element id="module-output" name="StrokesGained" />
+      </element>
+    </root>
+  </artifact>
+</component>
